@@ -1,0 +1,23 @@
+html{
+    background-color: black;
+}
+
+#motivate
+{
+
+    color:white;
+    font-family:"Libre Baskerville", serif;
+
+    margin-top: 10%;
+    margin-left:  25%;
+    width:50%;
+    height: 50%;
+    text-align: center;
+}
+
+img
+{
+
+    border: bold white;
+    border-width: 2px;
+}
